@@ -1,0 +1,15 @@
+D:\Massimo\Ricerca\Articoli\InProgress\Droni_Sgorbissa\Codice\DroneRouting\DroneRouting\bin\Debug\net6.0\DroneRouting.exe
+D:\Massimo\Ricerca\Articoli\InProgress\Droni_Sgorbissa\Codice\DroneRouting\DroneRouting\bin\Debug\net6.0\DroneRouting.deps.json
+D:\Massimo\Ricerca\Articoli\InProgress\Droni_Sgorbissa\Codice\DroneRouting\DroneRouting\bin\Debug\net6.0\DroneRouting.runtimeconfig.json
+D:\Massimo\Ricerca\Articoli\InProgress\Droni_Sgorbissa\Codice\DroneRouting\DroneRouting\bin\Debug\net6.0\DroneRouting.dll
+D:\Massimo\Ricerca\Articoli\InProgress\Droni_Sgorbissa\Codice\DroneRouting\DroneRouting\bin\Debug\net6.0\ref\DroneRouting.dll
+D:\Massimo\Ricerca\Articoli\InProgress\Droni_Sgorbissa\Codice\DroneRouting\DroneRouting\bin\Debug\net6.0\DroneRouting.pdb
+D:\Massimo\Ricerca\Articoli\InProgress\Droni_Sgorbissa\Codice\DroneRouting\DroneRouting\obj\Debug\net6.0\DroneRouting.csproj.AssemblyReference.cache
+D:\Massimo\Ricerca\Articoli\InProgress\Droni_Sgorbissa\Codice\DroneRouting\DroneRouting\obj\Debug\net6.0\DroneRouting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Massimo\Ricerca\Articoli\InProgress\Droni_Sgorbissa\Codice\DroneRouting\DroneRouting\obj\Debug\net6.0\DroneRouting.AssemblyInfoInputs.cache
+D:\Massimo\Ricerca\Articoli\InProgress\Droni_Sgorbissa\Codice\DroneRouting\DroneRouting\obj\Debug\net6.0\DroneRouting.AssemblyInfo.cs
+D:\Massimo\Ricerca\Articoli\InProgress\Droni_Sgorbissa\Codice\DroneRouting\DroneRouting\obj\Debug\net6.0\DroneRouting.csproj.CoreCompileInputs.cache
+D:\Massimo\Ricerca\Articoli\InProgress\Droni_Sgorbissa\Codice\DroneRouting\DroneRouting\obj\Debug\net6.0\DroneRouting.dll
+D:\Massimo\Ricerca\Articoli\InProgress\Droni_Sgorbissa\Codice\DroneRouting\DroneRouting\obj\Debug\net6.0\ref\DroneRouting.dll
+D:\Massimo\Ricerca\Articoli\InProgress\Droni_Sgorbissa\Codice\DroneRouting\DroneRouting\obj\Debug\net6.0\DroneRouting.pdb
+D:\Massimo\Ricerca\Articoli\InProgress\Droni_Sgorbissa\Codice\DroneRouting\DroneRouting\obj\Debug\net6.0\DroneRouting.genruntimeconfig.cache
